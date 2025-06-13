@@ -25,7 +25,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aeadxji1ji1odjlxqmsp.webp" width="24" height="24" alt="Ashby logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ashby](https://jobo.world/company/Ashby)
 
-* **[Software Engineer, Mobile](https://jobs.ashbyhq.com/reteam/0038f4aa-8c78-4350-b46d-9a396ab1678e)** — $100,000 – $175,000 USD _(posted 2025-03-12)_
+* **[Software Engineer, Mobile](https://jobs.ashbyhq.com/reteam/0038f4aa-8c78-4350-b46d-9a396ab1678e)** — ¤100,000 – ¤175,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mhng0b8sfael6jphuwm6.webp" width="24" height="24" alt="AssetWatch logo" style="vertical-align:middle"/>&nbsp;&nbsp;[AssetWatch](https://jobo.world/company/AssetWatch)
 
@@ -35,13 +35,9 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Senior Backend Engineer](https://boards.greenhouse.io/go1blinkist/jobs/4552079005)** — _n/a_ _(posted 2025-04-11)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gmn8bewvkfhrdl17hxdc.webp" width="24" height="24" alt="CDK Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CDK Global](https://jobo.world/company/CDK-Global)
-
-* **[Software Engineer](https://cdk.wd1.myworkdayjobs.com/cdk/job/Remote-USA/Looker-Developer_JR7019)** — _n/a_ _(posted 2025-04-22)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/id82rffdtflzgytga1hv.webp" width="24" height="24" alt="Chronosphere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chronosphere](https://jobo.world/company/Chronosphere)
 
-* **[Member of Technical Staff - Frontend - Responder](https://jobs.ashbyhq.com/chronospherejobs/8dc64ee7-e7fe-435c-8667-8b47a62f3eee)** — $200,000 – $250,000 USD _(posted 2025-03-19)_
+* **[Member of Technical Staff - Frontend - Responder](https://jobs.ashbyhq.com/chronospherejobs/8dc64ee7-e7fe-435c-8667-8b47a62f3eee)** — ¤200,000 – ¤250,000 USD _(posted 2025-03-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ip5pf6ew5hvfz7juafjm.webp" width="24" height="24" alt="Clerk logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clerk](https://jobo.world/company/Clerk)
 
@@ -49,7 +45,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbfespi3tbwe37eihuwb.webp" width="24" height="24" alt="Close logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Close](https://jobo.world/company/Close)
 
-* **[Senior Software Engineer - Frontend/React (USA Only - 100% Remote) ](https://jobs.ashbyhq.com/close/9cee96e9-52ef-481f-87ab-40c69ccbac38)** — $130,000 – $210,000 USD _(posted 2025-03-12)_
+* **[Senior Software Engineer - Frontend/React (USA Only - 100% Remote) ](https://jobs.ashbyhq.com/close/9cee96e9-52ef-481f-87ab-40c69ccbac38)** — ¤130,000 – ¤210,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ryt5tjq7ftjfh2sfczyk.webp" width="24" height="24" alt="Coinbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coinbase](https://jobo.world/company/Coinbase)
 
@@ -57,7 +53,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0szloryju810smkfxtc.webp" width="24" height="24" alt="Common logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Common](https://jobo.world/company/Common)
 
-* **[Senior Software Developer - US Based Remote Opportunity](https://apply.workable.com/commonapp/j/1CFCAB075F/)** — $1,500 USD _(posted 2025-05-23)_
+* **[Senior Software Developer - US Based Remote Opportunity](https://apply.workable.com/commonapp/j/1CFCAB075F/)** — ¤1,500 USD _(posted 2025-05-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sbz5t37tgk32fd5uyn4k.webp" width="24" height="24" alt="Curri logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Curri](https://jobo.world/company/Curri)
 
@@ -69,8 +65,8 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjk0q1dyjqqswplpttmj.webp" width="24" height="24" alt="Discord logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Discord](https://jobo.world/company/Discord)
 
-* **[Software Engineer, Growth](https://job-boards.greenhouse.io/discord/jobs/7980373002)** — $160,000 – $180,000 USD _(posted 2025-05-13)_
-* **[Senior Software Engineer, Growth](https://job-boards.greenhouse.io/discord/jobs/7980369002)** — $196,000 – $220,500 USD _(posted 2025-05-13)_
+* **[Software Engineer, Growth](https://job-boards.greenhouse.io/discord/jobs/7980373002)** — ¤160,000 – ¤180,000 USD _(posted 2025-05-13)_
+* **[Senior Software Engineer, Growth](https://job-boards.greenhouse.io/discord/jobs/7980369002)** — ¤196,000 – ¤220,500 USD _(posted 2025-05-13)_
 * **[Staff Software Engineer – UI/UX &amp; Animations](https://job-boards.greenhouse.io/discord/jobs/7854326002)** — _n/a_ _(posted 2025-04-02)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/numhti7b6zfmpjeszdjp.webp" width="24" height="24" alt="Ditto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ditto](https://jobo.world/company/Ditto)
@@ -91,7 +87,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yzkimf3zrdbpki20fjgt.webp" width="24" height="24" alt="Eight Sleep logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Eight Sleep](https://jobo.world/company/Eight-Sleep)
 
-* **[Senior Software Engineer - Mobile (iOS)](https://jobs.ashbyhq.com/eightsleep/0b9551f4-5ff0-4dc0-bf34-36402d5490fb)** — $180,000 – $210,000 USD _(posted 2025-03-12)_
+* **[Senior Software Engineer - Mobile (iOS)](https://jobs.ashbyhq.com/eightsleep/0b9551f4-5ff0-4dc0-bf34-36402d5490fb)** — ¤180,000 – ¤210,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/znpexukgd1finlp9p5hw.webp" width="24" height="24" alt="ElevenLabs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ElevenLabs](https://jobo.world/company/ElevenLabs)
 
@@ -110,7 +106,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r7kzebg3baked8orrdyb.webp" width="24" height="24" alt="Flatfile logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flatfile](https://jobo.world/company/Flatfile)
 
-* **[Product Engineer - Front End](https://jobs.ashbyhq.com/flatfile/09ad0a9d-8382-4609-93f8-d11c6a52369c)** — $180,000 – $200,000 USD _(posted 2025-05-21)_
+* **[Product Engineer - Front End](https://jobs.ashbyhq.com/flatfile/09ad0a9d-8382-4609-93f8-d11c6a52369c)** — ¤180,000 – ¤200,000 USD _(posted 2025-05-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
@@ -123,21 +119,23 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
-* **[Senior Software Engineer, Mobile API](https://jobs.ashbyhq.com%2Fflock%2520safety%2F2c8fc982-08d2-4b80-a015-8c760b7e1b0c)** — $170,000 – $190,000 USD _(posted 2025-06-11)_
-* **[Senior Software Engineer, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2F573edae6-7444-4e9c-82ea-85d71c545d0f)** — $170,000 – $190,000 USD _(posted 2025-05-21)_
-* **[Software Engineer III, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fc6687d97-eef0-4bee-b1ff-7259f2893b2c)** — $142,000 – $155,000 USD _(posted 2025-05-16)_
-* **[Product Designer, Nova](https://jobs.ashbyhq.com%2Fflock%2520safety%2F296904e7-cce4-4453-ad2c-8c221024cd21)** — $125,000 – $150,000 USD _(posted 2025-05-10)_
-* **[Software Engineer in Test ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F300fafc4-0bd6-44ce-ab6e-116cf4662fc1)** — $125,000 – $155,000 USD _(posted 2025-05-08)_
-* **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — $171,000 – $190,000 USD _(posted 2025-04-24)_
-* **[Staff Software Engineer - Rust](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fb068a665-3eb2-4a77-bfc9-38902bc6db2d)** — $200,000 – $235,000 USD _(posted 2025-03-12)_
+* **[Senior Technical Project Manager, Software](https://jobs.ashbyhq.com%2Fflock%2520safety%2F79ced288-7b8a-44eb-b685-19c5a9f0d45d)** — ¤140,000 – ¤175,000 USD _(posted 2025-06-12)_
+* **[Staff iOS Engineer](https://jobs.ashbyhq.com%2Fflock%2520safety%2F7974bb7f-ae84-4110-baa8-e4f03740a2c9)** — ¤200,000 – ¤220,000 USD _(posted 2025-06-12)_
+* **[Senior Software Engineer, Mobile API](https://jobs.ashbyhq.com%2Fflock%2520safety%2F2c8fc982-08d2-4b80-a015-8c760b7e1b0c)** — ¤170,000 – ¤190,000 USD _(posted 2025-06-11)_
+* **[Senior Software Engineer, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2F573edae6-7444-4e9c-82ea-85d71c545d0f)** — ¤170,000 – ¤190,000 USD _(posted 2025-05-21)_
+* **[Software Engineer III, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fc6687d97-eef0-4bee-b1ff-7259f2893b2c)** — ¤142,000 – ¤155,000 USD _(posted 2025-05-16)_
+* **[Product Designer, Nova](https://jobs.ashbyhq.com%2Fflock%2520safety%2F296904e7-cce4-4453-ad2c-8c221024cd21)** — ¤125,000 – ¤150,000 USD _(posted 2025-05-10)_
+* **[Software Engineer in Test ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F300fafc4-0bd6-44ce-ab6e-116cf4662fc1)** — ¤125,000 – ¤155,000 USD _(posted 2025-05-08)_
+* **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — ¤171,000 – ¤190,000 USD _(posted 2025-04-24)_
+* **[Staff Software Engineer - Rust](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fb068a665-3eb2-4a77-bfc9-38902bc6db2d)** — ¤200,000 – ¤235,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/agaosbyl4oj9nni4qbnz.webp" width="24" height="24" alt="FullStory logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FullStory](https://jobo.world/company/FullStory)
 
-* **[Senior Software Engineer, iOS](https://jobs.ashbyhq.com/fullstory/ab3f8ecb-ee1f-4431-a05e-b333c8589a8a)** — $176,000 – $207,500 USD _(posted 2025-04-22)_
+* **[Senior Software Engineer, iOS](https://jobs.ashbyhq.com/fullstory/ab3f8ecb-ee1f-4431-a05e-b333c8589a8a)** — ¤176,000 – ¤207,500 USD _(posted 2025-04-22)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgcwsq2gam2xf49dxzh5.webp" width="24" height="24" alt="Gamechanger logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Gamechanger](https://jobo.world/company/Gamechanger)
 
-* **[iOS Software Engineer, Stats and Insights](https://jobs.ashbyhq.com/gamechanger/1881e57c-9ec1-4798-8d6c-07f571efdefd)** — $130,000 – $155,000 USD _(posted 2025-05-24)_
+* **[iOS Software Engineer, Stats and Insights](https://jobs.ashbyhq.com/gamechanger/1881e57c-9ec1-4798-8d6c-07f571efdefd)** — ¤130,000 – ¤155,000 USD _(posted 2025-05-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwqvzeivla8e5znv7cvw.webp" width="24" height="24" alt="Built Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Built Technologies](https://jobo.world/company/getbuilt)
 
@@ -146,7 +144,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
 * **[Staff Full Stack Engineer, Payments](https://jobs.lever.co/goodleap/d54353d8-3f47-4fa3-9906-48af23432340)** — _n/a_ _(posted 2025-05-13)_
-* **[Senior Frontend Engineer](https://jobs.lever.co/goodleap/68d88e84-b8f9-4104-8083-09a68430ec3d)** — $146,000 – $170,000 USD _(posted 2025-05-09)_
+* **[Senior Frontend Engineer](https://jobs.lever.co/goodleap/68d88e84-b8f9-4104-8083-09a68430ec3d)** — ¤146,000 – ¤170,000 USD _(posted 2025-05-09)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2ezpbx124zsbrql2a7b.webp" width="24" height="24" alt="Hang logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hang](https://jobo.world/company/Hang)
 
@@ -158,8 +156,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ndsgzy63mycn4gatbqgq.webp" width="24" height="24" alt="Headspace logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Headspace](https://jobo.world/company/Headspace)
 
-* **[Software Engineer, Flutter](https://job-boards.greenhouse.io/hs/jobs/6564448)** — $110,000 – $150,000 USD _(posted 2025-05-15)_
-* **[Senior Software Engineer, Flutter](https://job-boards.greenhouse.io/hs/jobs/6564400)** — _n/a_ _(posted 2025-05-15)_
+* **[Software Engineer, Flutter](https://job-boards.greenhouse.io/hs/jobs/6564448)** — ¤110,000 – ¤150,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/unzryaz9kvxaq6csurkt.webp" width="24" height="24" alt="Hugging Face logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hugging Face](https://jobo.world/company/Hugging-Face)
 
@@ -167,7 +164,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/noj1m788gq9rg2qahstz.webp" width="24" height="24" alt="Ironclad logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ironclad](https://jobo.world/company/Ironclad)
 
-* **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — $160,000 – $175,000 USD _(posted 2025-03-12)_
+* **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
@@ -175,10 +172,11 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sxgbfxu6zzwvq8obqunk.webp" width="24" height="24" alt="Kalshi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalshi](https://jobo.world/company/Kalshi)
 
-* **[App Engineer](https://job-boards.greenhouse.io/kalshi/jobs/6034981003)** — $100,000 – $200,000 USD _(posted 2025-04-15)_
+* **[App Engineer](https://job-boards.greenhouse.io/kalshi/jobs/6034981003)** — ¤100,000 – ¤200,000 USD _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lvwq9crawrrfibndxzho.webp" width="24" height="24" alt="Keeper Security logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keeper Security](https://jobo.world/company/Keeper-Security)
 
+* **[Senior Software Engineer, Web Vault (Frontend)](https://apply.workable.com/keepersecurity/j/B4A5DD88B7/)** — _n/a_ _(posted 2025-06-11)_
 * **[Senior Software Engineer, iOS](https://apply.workable.com/keepersecurity/j/AC60276138/)** — _n/a_ _(posted 2025-05-23)_
 * **[Senior Software Engineer, Android](https://apply.workable.com/keepersecurity/j/BD295AC174/)** — _n/a_ _(posted 2025-05-23)_
 * **[Senior Software Engineer, Desktop Applications](https://apply.workable.com/keepersecurity/j/F0DD0676D1/)** — _n/a_ _(posted 2025-05-09)_
@@ -186,7 +184,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/n2jgwbgwyiecef7h3tzy.webp" width="24" height="24" alt="Kraken logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kraken](https://jobo.world/company/Kraken)
 
-* **[Senior Software Engineer - React Native - Payments](https://jobs.ashbyhq.com/kraken.com/bb88a423-baf3-445e-b183-0c87640ba59c)** — $127,000 – $203,000 USD _(posted 2025-05-30)_
+* **[Senior Software Engineer - React Native - Payments](https://jobs.ashbyhq.com/kraken.com/bb88a423-baf3-445e-b183-0c87640ba59c)** — ¤127,000 – ¤203,000 USD _(posted 2025-05-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
 
@@ -208,7 +206,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
-* **[Senior Software Engineer - Task Runtime](https://job-boards.greenhouse.io/motional/jobs/6295289003)** — $153,000 – $207,000 USD _(posted 2025-04-15)_
+* **[Senior Software Engineer - Task Runtime](https://job-boards.greenhouse.io/motional/jobs/6295289003)** — ¤153,000 – ¤207,000 USD _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
 
@@ -225,16 +223,12 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hm2rl7tsorbxxjehvpou.webp" width="24" height="24" alt="Mysten Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mysten Labs](https://jobo.world/company/Mysten-Labs)
 
-* **[Senior Software Engineer, Frontend](https://jobs.ashbyhq.com/mystenlabs/74ccc199-8a7e-4905-867e-edf6ec69fe44)** — $150,000 – $225,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhi0btjeoioa7qgotnxx.webp" width="24" height="24" alt="Nutrafol logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Nutrafol](https://jobo.world/company/Nutrafol)
-
-* **[Mobile App Developer](https://job-boards.greenhouse.io/nutrafol/jobs/4537417005)** — _n/a_ _(posted 2025-04-26)_
+* **[Senior Software Engineer, Frontend](https://jobs.ashbyhq.com/mystenlabs/74ccc199-8a7e-4905-867e-edf6ec69fe44)** — ¤150,000 – ¤225,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
 
-* **[Staff Frontend Software Engineer](https://jobs.ashbyhq.com/privy/6582f635-19f9-4697-9a23-2205054f15ae)** — $170,000 – $250,000 USD _(posted 2025-03-12)_
-* **[Senior/Staff React Native Software Engineer](https://jobs.ashbyhq.com/privy/1f881b2f-6f7a-4852-b9fd-3838d2106f49)** — $150,000 – $250,000 USD _(posted 2025-03-12)_
+* **[Staff Frontend Software Engineer](https://jobs.ashbyhq.com/privy/6582f635-19f9-4697-9a23-2205054f15ae)** — ¤170,000 – ¤250,000 USD _(posted 2025-03-12)_
+* **[Senior/Staff React Native Software Engineer](https://jobs.ashbyhq.com/privy/1f881b2f-6f7a-4852-b9fd-3838d2106f49)** — ¤150,000 – ¤250,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwnmkx7jqw3p2e6t0isk.webp" width="24" height="24" alt="Quora logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Quora](https://jobo.world/company/Quora)
 
@@ -254,7 +248,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mdqj75zkufregvxkop0f.webp" width="24" height="24" alt="Rescale logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rescale](https://jobo.world/company/Rescale)
 
-* **[Software Engineer, Full-Stack](https://jobs.ashbyhq.com/rescale/7ad7c1e2-44ed-4b7b-ab5c-10395b7cd684)** — $60,000 – $90,000 USD _(posted 2025-05-15)_
+* **[Software Engineer, Full-Stack](https://jobs.ashbyhq.com/rescale/7ad7c1e2-44ed-4b7b-ab5c-10395b7cd684)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
 * **[Principal Angular Developer](https://job-boards.greenhouse.io/regscale/jobs/4726043007)** — _n/a_ _(posted 2025-05-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uctpsm9v2ztjf5g3pgnl.webp" width="24" height="24" alt="Rocket Money logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rocket Money](https://jobo.world/company/RocketMoney)
@@ -280,13 +274,13 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wrtdcmsm9s8uw56wksn3.webp" width="24" height="24" alt="Superblocks logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Superblocks](https://jobo.world/company/Superblocks)
 
-* **[Software Engineer - Frontend Platform](https://boards.greenhouse.io/superblocks/jobs/4024363005)** — $170,000 – $210,000 USD _(posted 2025-03-14)_
+* **[Software Engineer - Frontend Platform](https://boards.greenhouse.io/superblocks/jobs/4024363005)** — ¤170,000 – ¤210,000 USD _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l2atgbjd7w67rocymbfk.webp" width="24" height="24" alt="Tapcart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Tapcart](https://jobo.world/company/Tapcart)
 
-* **[Senior Software Engineer, Full Stack](https://jobs.ashbyhq.com/tapcart/aa63ad92-e977-43ce-9836-797df0c543be)** — $175,000 – $185,000 USD _(posted 2025-05-30)_
-* **[Senior Software Engineer, React Native](https://jobs.ashbyhq.com/tapcart/ac6b2e89-5e53-43c8-8e39-8c09afa00c01)** — $175,000 – $185,000 USD _(posted 2025-05-29)_
-* **[Solutions Engineer](https://jobs.ashbyhq.com/tapcart/dba706f3-f124-4262-b5fa-fe2705d33563)** — $120,000 – $140,000 USD _(posted 2025-04-30)_
+* **[Senior Software Engineer, Full Stack](https://jobs.ashbyhq.com/tapcart/aa63ad92-e977-43ce-9836-797df0c543be)** — ¤175,000 – ¤185,000 USD _(posted 2025-05-30)_
+* **[Senior Software Engineer, React Native](https://jobs.ashbyhq.com/tapcart/ac6b2e89-5e53-43c8-8e39-8c09afa00c01)** — ¤175,000 – ¤185,000 USD _(posted 2025-05-29)_
+* **[Solutions Engineer](https://jobs.ashbyhq.com/tapcart/dba706f3-f124-4262-b5fa-fe2705d33563)** — ¤120,000 – ¤140,000 USD _(posted 2025-04-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nmpjang8hd7j1tvecltw.webp" width="24" height="24" alt="The Zebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[The Zebra](https://jobo.world/company/The-Zebra)
 
@@ -305,4 +299,4 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Senior iOS Engineer](https://jobs.ashbyhq.com/zello/e9fa5143-a67f-40d3-8a29-091ce4bd009f)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-06-12_
+_Updated automatically — 2025-06-13_
