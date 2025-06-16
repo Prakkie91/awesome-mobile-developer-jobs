@@ -31,10 +31,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[DevOps Engineer, Mobile](https://job-boards.greenhouse.io/assetwatch/jobs/4572524005)** — _n/a_ _(posted 2025-06-04)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ajc2utcosyizxekgexit.webp" width="24" height="24" alt="Blinkist logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Blinkist](https://jobo.world/company/Blinkist)
-
-* **[Senior Backend Engineer](https://boards.greenhouse.io/go1blinkist/jobs/4552079005)** — _n/a_ _(posted 2025-04-11)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/id82rffdtflzgytga1hv.webp" width="24" height="24" alt="Chronosphere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chronosphere](https://jobo.world/company/Chronosphere)
 
 * **[Member of Technical Staff - Frontend - Responder](https://jobs.ashbyhq.com/chronospherejobs/8dc64ee7-e7fe-435c-8667-8b47a62f3eee)** — ¤200,000 – ¤250,000 USD _(posted 2025-03-19)_
@@ -65,7 +61,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjk0q1dyjqqswplpttmj.webp" width="24" height="24" alt="Discord logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Discord](https://jobo.world/company/Discord)
 
-* **[Software Engineer, Growth](https://job-boards.greenhouse.io/discord/jobs/7980373002)** — ¤160,000 – ¤180,000 USD _(posted 2025-05-13)_
 * **[Senior Software Engineer, Growth](https://job-boards.greenhouse.io/discord/jobs/7980369002)** — ¤196,000 – ¤220,500 USD _(posted 2025-05-13)_
 * **[Staff Software Engineer – UI/UX &amp; Animations](https://job-boards.greenhouse.io/discord/jobs/7854326002)** — _n/a_ _(posted 2025-04-02)_
 
@@ -172,6 +167,10 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
 * **[Staff Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/5357b6d1-bc12-4d7b-afda-81c14bd2538f)** — _n/a_ _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tljg9uclhyrfwgpqslwa.webp" width="24" height="24" alt="JumpCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[JumpCloud](https://jobo.world/company/JumpCloud)
+
+* **[Senior Software Engineer, Device Management - United States](https://jobs.lever.co/jumpcloud/95adc354-ffbe-41cc-90b7-68ddaafd4d0f)** — _n/a_ _(posted 2025-06-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sxgbfxu6zzwvq8obqunk.webp" width="24" height="24" alt="Kalshi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalshi](https://jobo.world/company/Kalshi)
 
@@ -290,6 +289,10 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Principal Software Engineer, Front End](https://job-boards.greenhouse.io/tomonetworks/jobs/4444842006)** — _n/a_ _(posted 2025-03-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/i0lugmi9cix2n7oslta7.webp" width="24" height="24" alt="Upkeep logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Upkeep](https://jobo.world/company/Upkeep)
+
+* **[Staff Software Engineer - Frontend](https://job-boards.greenhouse.io/upkeep/jobs/4740536008)** — _n/a_ _(posted 2025-06-14)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wlfaiwji54bz98tyqkfo.webp" width="24" height="24" alt="VSCO logo" style="vertical-align:middle"/>&nbsp;&nbsp;[VSCO](https://jobo.world/company/VSCO)
 
 * **[Staff Software Engineer (iOS)](https://boards.greenhouse.io/vsco39/jobs/7788170002)** — _n/a_ _(posted 2025-03-14)_
@@ -299,4 +302,4 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Senior iOS Engineer](https://jobs.ashbyhq.com/zello/e9fa5143-a67f-40d3-8a29-091ce4bd009f)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-06-14_
+_Updated automatically — 2025-06-16_
