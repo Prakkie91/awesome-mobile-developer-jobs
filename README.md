@@ -165,6 +165,10 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Staff Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/5357b6d1-bc12-4d7b-afda-81c14bd2538f)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
+
+* **[Senior Product Designer](https://jobs.ashbyhq.com/jerry/5d575cc2-d6fe-47cf-9cdc-2ba10d24ebd4)** — _n/a_ _(posted 2025-06-21)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tljg9uclhyrfwgpqslwa.webp" width="24" height="24" alt="JumpCloud logo" style="vertical-align:middle"/>&nbsp;&nbsp;[JumpCloud](https://jobo.world/company/JumpCloud)
 
 * **[Senior Software Engineer, Device Management - United States](https://jobs.lever.co/jumpcloud/95adc354-ffbe-41cc-90b7-68ddaafd4d0f)** — _n/a_ _(posted 2025-06-12)_
@@ -221,7 +225,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ipqjggsa4adm24tegtgj.webp" width="24" height="24" alt="MyFitnessPal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[MyFitnessPal](https://jobo.world/company/MyFitnessPal)
 
 * **[Software Engineer III, iOS - Ads](https://job-boards.greenhouse.io/myfitnesspal/jobs/6960796)** — _n/a_ _(posted 2025-06-07)_
-* **[Staff Software Engineer, iOS - Ads](https://job-boards.greenhouse.io/myfitnesspal/jobs/6928322)** — _n/a_ _(posted 2025-06-05)_
 * **[Staff Software Engineer, iOS](https://boards.greenhouse.io/myfitnesspal/jobs/6765123)** — _n/a_ _(posted 2025-04-03)_
 * **[Software Engineer III, iOS - Partnerships](https://boards.greenhouse.io/myfitnesspal/jobs/6756143)** — _n/a_ _(posted 2025-04-02)_
 * **[Software Engineer III, Android - Partnerships](https://boards.greenhouse.io/myfitnesspal/jobs/6763591)** — _n/a_ _(posted 2025-04-02)_
@@ -229,6 +232,10 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hm2rl7tsorbxxjehvpou.webp" width="24" height="24" alt="Mysten Labs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mysten Labs](https://jobo.world/company/Mysten-Labs)
 
 * **[Senior Software Engineer, Frontend](https://jobs.ashbyhq.com/mystenlabs/74ccc199-8a7e-4905-867e-edf6ec69fe44)** — ¤150,000 – ¤225,000 USD _(posted 2025-03-12)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l4bo4rdk0efiqvvzos5y.webp" width="24" height="24" alt="Oura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oura](https://jobo.world/company/Oura)
+
+* **[Engineering Manager- Mobile](https://apply.workable.com/oura-health-ltd/j/DCFD398E72/)** — ¤162,000 – ¤203,000 USD _(posted 2025-06-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtpksjlzjjnextpxet98.webp" width="24" height="24" alt="PlayStation Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PlayStation Global](https://jobo.world/company/PlayStation-Global)
 
@@ -292,7 +299,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Senior Software Engineer, Full Stack](https://jobs.ashbyhq.com/tapcart/aa63ad92-e977-43ce-9836-797df0c543be)** — ¤175,000 – ¤185,000 USD _(posted 2025-05-30)_
 * **[Senior Software Engineer, React Native](https://jobs.ashbyhq.com/tapcart/ac6b2e89-5e53-43c8-8e39-8c09afa00c01)** — ¤175,000 – ¤185,000 USD _(posted 2025-05-29)_
-* **[Solutions Engineer](https://jobs.ashbyhq.com/tapcart/dba706f3-f124-4262-b5fa-fe2705d33563)** — ¤120,000 – ¤140,000 USD _(posted 2025-04-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nmpjang8hd7j1tvecltw.webp" width="24" height="24" alt="The Zebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[The Zebra](https://jobo.world/company/The-Zebra)
 
@@ -311,4 +317,4 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Senior iOS Engineer](https://jobs.ashbyhq.com/zello/e9fa5143-a67f-40d3-8a29-091ce4bd009f)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-06-21_
+_Updated automatically — 2025-06-22_
