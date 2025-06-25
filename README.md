@@ -31,6 +31,10 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Senior Backend Engineer](https://boards.greenhouse.io/go1blinkist/jobs/4552079005)** — _n/a_ _(posted 2025-04-11)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/z4rpdq4v1e2jxol3kwhq.webp" width="24" height="24" alt="Character.AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Character.AI](https://jobo.world/company/Character)
+
+* **[Software Engineer, Growth](https://jobs.ashbyhq.com/character/60d095ee-aaaf-4ac1-b624-2c7388c331c6)** — ¤150,000 – ¤300,000 USD _(posted 2025-05-24)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/id82rffdtflzgytga1hv.webp" width="24" height="24" alt="Chronosphere logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Chronosphere](https://jobo.world/company/Chronosphere)
 
 * **[Member of Technical Staff - Frontend - Responder](https://jobs.ashbyhq.com/chronospherejobs/8dc64ee7-e7fe-435c-8667-8b47a62f3eee)** — ¤200,000 – ¤250,000 USD _(posted 2025-03-19)_
@@ -50,6 +54,10 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/e0szloryju810smkfxtc.webp" width="24" height="24" alt="Common logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Common](https://jobo.world/company/Common)
 
 * **[Senior Software Developer - US Based Remote Opportunity](https://apply.workable.com/commonapp/j/1CFCAB075F/)** — ¤1,500 USD _(posted 2025-05-23)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
+
+* **[IT Enterprise Mobile Architect (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/IT-Enterprise-Mobile-Architect--Remote-_R23576)** — _n/a_ _(posted 2025-06-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sbz5t37tgk32fd5uyn4k.webp" width="24" height="24" alt="Curri logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Curri](https://jobo.world/company/Curri)
 
@@ -131,7 +139,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Staff iOS Engineer](https://jobs.ashbyhq.com%2Fflock%2520safety%2F7974bb7f-ae84-4110-baa8-e4f03740a2c9)** — ¤200,000 – ¤220,000 USD _(posted 2025-06-12)_
 * **[Senior Software Engineer, Mobile API](https://jobs.ashbyhq.com%2Fflock%2520safety%2F2c8fc982-08d2-4b80-a015-8c760b7e1b0c)** — ¤170,000 – ¤190,000 USD _(posted 2025-06-11)_
 * **[Senior Software Engineer, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2F573edae6-7444-4e9c-82ea-85d71c545d0f)** — ¤170,000 – ¤190,000 USD _(posted 2025-05-21)_
-* **[Software Engineer III, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fc6687d97-eef0-4bee-b1ff-7259f2893b2c)** — ¤142,000 – ¤155,000 USD _(posted 2025-05-16)_
 * **[Product Designer, Nova](https://jobs.ashbyhq.com%2Fflock%2520safety%2F296904e7-cce4-4453-ad2c-8c221024cd21)** — ¤125,000 – ¤150,000 USD _(posted 2025-05-10)_
 * **[Software Engineer in Test ](https://jobs.ashbyhq.com%2Fflock%2520safety%2F300fafc4-0bd6-44ce-ab6e-116cf4662fc1)** — ¤125,000 – ¤155,000 USD _(posted 2025-05-08)_
 * **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — ¤171,000 – ¤190,000 USD _(posted 2025-04-24)_
@@ -270,10 +277,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Senior Full Stack Engineer, Card Catalyst](https://job-boards.greenhouse.io/truebill/jobs/6506649003)** — _n/a_ _(posted 2025-04-26)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vunepkbbyb0nzxuzmazf.webp" width="24" height="24" alt="Rogo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rogo](https://jobo.world/company/Rogo)
-
-* **[Software Engineer: Full-Stack](https://jobs.ashbyhq.com/rogo/d1fba932-5b1d-469f-9e4b-fef732df0ccd)** — _n/a_ _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/inlci0wzrhiduro5qdsv.webp" width="24" height="24" alt="Scout Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Scout Motors](https://jobo.world/company/Scout-Motors)
 
 * **[Sr Software Engineer - Mobile (Android) - Digital Product](https://job-boards.greenhouse.io/scoutmotors/jobs/4708235007)** — _n/a_ _(posted 2025-04-18)_
@@ -317,4 +320,4 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Senior iOS Engineer](https://jobs.ashbyhq.com/zello/e9fa5143-a67f-40d3-8a29-091ce4bd009f)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-06-24_
+_Updated automatically — 2025-06-25_
