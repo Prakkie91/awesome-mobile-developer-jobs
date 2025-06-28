@@ -136,7 +136,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Staff iOS Engineer](https://jobs.ashbyhq.com%2Fflock%2520safety%2F7974bb7f-ae84-4110-baa8-e4f03740a2c9)** — ¤200,000 – ¤220,000 USD _(posted 2025-06-12)_
 * **[Senior Software Engineer, Mobile API](https://jobs.ashbyhq.com%2Fflock%2520safety%2F2c8fc982-08d2-4b80-a015-8c760b7e1b0c)** — ¤170,000 – ¤190,000 USD _(posted 2025-06-11)_
 * **[Senior Software Engineer, Android Apps](https://jobs.ashbyhq.com%2Fflock%2520safety%2F573edae6-7444-4e9c-82ea-85d71c545d0f)** — ¤170,000 – ¤190,000 USD _(posted 2025-05-21)_
-* **[Product Designer, Nova](https://jobs.ashbyhq.com%2Fflock%2520safety%2F296904e7-cce4-4453-ad2c-8c221024cd21)** — ¤125,000 – ¤150,000 USD _(posted 2025-05-10)_
 * **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — ¤171,000 – ¤190,000 USD _(posted 2025-04-24)_
 * **[Staff Software Engineer - Rust](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fb068a665-3eb2-4a77-bfc9-38902bc6db2d)** — ¤200,000 – ¤235,000 USD _(posted 2025-03-12)_
 
@@ -240,6 +239,10 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Senior Software Engineer, Frontend](https://jobs.ashbyhq.com/mystenlabs/74ccc199-8a7e-4905-867e-edf6ec69fe44)** — ¤150,000 – ¤225,000 USD _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l4bo4rdk0efiqvvzos5y.webp" width="24" height="24" alt="Oura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oura](https://jobo.world/company/Oura)
+
+* **[Engineering Manager- Mobile](https://apply.workable.com/oura-health-ltd/j/DCFD398E72/)** — ¤162,000 – ¤203,000 USD _(posted 2025-06-10)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtpksjlzjjnextpxet98.webp" width="24" height="24" alt="PlayStation Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PlayStation Global](https://jobo.world/company/PlayStation-Global)
 
 * **[Lead Engineer, Mobile Performance](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5499154004)** — _n/a_ _(posted 2025-06-19)_
@@ -317,4 +320,4 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Senior iOS Engineer](https://jobs.ashbyhq.com/zello/e9fa5143-a67f-40d3-8a29-091ce4bd009f)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-06-27_
+_Updated automatically — 2025-06-28_
