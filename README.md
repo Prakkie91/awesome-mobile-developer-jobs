@@ -40,6 +40,10 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[FRONT END LEAD SOFTWARE ENGINEER  - STAFF](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/FRONT-END-LEAD-SOFTWARE-ENGINEER----STAFF_JR10489)** — _n/a_ _(posted 2025-06-16)_
 * **[Lead Sr. Software Engineer - Front End](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Lead-Sr-Software-Engineer---Front-End_JR10541)** — _n/a_ _(posted 2025-06-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/z4rpdq4v1e2jxol3kwhq.webp" width="24" height="24" alt="Character.AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Character.AI](https://jobo.world/company/Character)
+
+* **[Software Engineer, Growth](https://jobs.ashbyhq.com/character/60d095ee-aaaf-4ac1-b624-2c7388c331c6)** — ¤150,000 – ¤300,000 USD _(posted 2025-05-24)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ip5pf6ew5hvfz7juafjm.webp" width="24" height="24" alt="Clerk logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clerk](https://jobo.world/company/Clerk)
 
 * **[Developer Relations Engineer](https://jobs.ashbyhq.com/clerk/5e899b61-1dcc-4c8e-83af-5e67d8ec1387)** — _n/a_ _(posted 2025-05-06)_
@@ -96,6 +100,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yzkimf3zrdbpki20fjgt.webp" width="24" height="24" alt="Eight Sleep logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Eight Sleep](https://jobo.world/company/Eight-Sleep)
 
+* **[Senior Software Engineer - Mobile (Android)](https://jobs.ashbyhq.com/eightsleep/2fef2cd1-f874-4254-8e7b-1865799a0edd)** — ¤180,000 – ¤210,000 USD _(posted 2025-07-01)_
 * **[Senior Software Engineer - Mobile (iOS)](https://jobs.ashbyhq.com/eightsleep/0b9551f4-5ff0-4dc0-bf34-36402d5490fb)** — ¤180,000 – ¤210,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/znpexukgd1finlp9p5hw.webp" width="24" height="24" alt="ElevenLabs logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ElevenLabs](https://jobo.world/company/ElevenLabs)
@@ -155,10 +160,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Front- End Engineer ](https://jobs.ashbyhq.com/hatch/fc853db4-b63c-46f3-9fce-1e196c48dbea)** — _n/a_ _(posted 2025-04-03)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/unzryaz9kvxaq6csurkt.webp" width="24" height="24" alt="Hugging Face logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hugging Face](https://jobo.world/company/Hugging-Face)
-
-* **[Senior Frontend Engineer - US Remote](https://apply.workable.com/huggingface/j/09B44FE57C/)** — _n/a_ _(posted 2025-05-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/noj1m788gq9rg2qahstz.webp" width="24" height="24" alt="Ironclad logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ironclad](https://jobo.world/company/Ironclad)
 
 * **[Senior Software Engineer](https://jobs.ashbyhq.com/ironcladhq/b640b3f3-4dd4-47eb-ab3c-1911535e3573)** — ¤160,000 – ¤175,000 USD _(posted 2025-03-12)_
@@ -194,7 +195,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
 
 * **[Senior Android Engineer](https://job-boards.greenhouse.io/kunai/jobs/4758605007)** — _n/a_ _(posted 2025-06-11)_
-* **[Senior Android Engineer - Android](https://job-boards.greenhouse.io/kunai/jobs/4734113007)** — _n/a_ _(posted 2025-05-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jwxdgigobys7pie3h5ns.webp" width="24" height="24" alt="LaunchDarkly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[LaunchDarkly](https://jobo.world/company/LaunchDarkly)
 
@@ -320,4 +320,4 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Senior iOS Engineer](https://jobs.ashbyhq.com/zello/e9fa5143-a67f-40d3-8a29-091ce4bd009f)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-07-01_
+_Updated automatically — 2025-07-02_
