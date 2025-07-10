@@ -31,10 +31,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Software Engineer, Mobile](https://jobs.ashbyhq.com/reteam/0038f4aa-8c78-4350-b46d-9a396ab1678e)** — ¤100,000 – ¤175,000 USD _(posted 2025-03-12)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oumok0ehxaevgoxf1va5.webp" width="24" height="24" alt="Believer logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Believer](https://jobo.world/company/Believer)
-
-* **[Software Engineer](https://jobs.smartrecruiters.com/Believe/744000069187921-software-engineer?oga=true)** — _n/a_ _(posted 2025-07-07)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ajc2utcosyizxekgexit.webp" width="24" height="24" alt="Blinkist logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Blinkist](https://jobo.world/company/Blinkist)
 
 * **[Senior Backend Engineer](https://boards.greenhouse.io/go1blinkist/jobs/4552079005)** — _n/a_ _(posted 2025-04-11)_
@@ -96,6 +92,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcsw3ojmqjyiyuteloxu.webp" width="24" height="24" alt="DraftKings logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DraftKings](https://jobo.world/company/DraftKings)
 
+* **[Senior Software Engineer, Android](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Senior-Software-Engineer--Android_JR11802-1)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior Lead Software Engineer, Android](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Senior-Lead-Software-Engineer--Android_JR11276-2)** — _n/a_ _(posted 2025-04-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dk4b0wh7a7bjmrawfziu.webp" width="24" height="24" alt="DroneDeploy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DroneDeploy](https://jobo.world/company/DroneDeploy)
@@ -126,10 +123,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Frontend Software Engineer ](https://jobs.ashbyhq.com/feathr/9b6d7ff4-59ea-4da5-b68c-579f6610fbb0)** — ¤90,000 USD _(posted 2025-06-20)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pu4qh0i5onxf33cza17v.webp" width="24" height="24" alt="Fetch logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fetch](https://jobo.world/company/FetchRewards)
-
-* **[Senior Product Designer - Consumer](https://job-boards.greenhouse.io/fetchrewards/jobs/6619251003)** — _n/a_ _(posted 2025-06-25)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r7kzebg3baked8orrdyb.webp" width="24" height="24" alt="Flatfile logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flatfile](https://jobo.world/company/Flatfile)
 
 * **[Product Engineer - Front End](https://jobs.ashbyhq.com/flatfile/09ad0a9d-8382-4609-93f8-d11c6a52369c)** — ¤180,000 – ¤200,000 USD _(posted 2025-05-21)_
@@ -140,8 +133,8 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
 
+* **[Senior Software Engineer, Fullstack](https://job-boards.greenhouse.io/flex/jobs/4584212005)** — _n/a_ _(posted 2025-07-09)_
 * **[Staff Software Engineer, Risk Engineering](https://job-boards.greenhouse.io/flex/jobs/4576670005)** — _n/a_ _(posted 2025-06-18)_
-* **[Staff Software Engineer, Growth](https://job-boards.greenhouse.io/flex/jobs/4540719005)** — _n/a_ _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
@@ -257,6 +250,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwnmkx7jqw3p2e6t0isk.webp" width="24" height="24" alt="Quora logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Quora](https://jobo.world/company/Quora)
 
+* **[Senior Software Engineer - Developer Productivity, Poe (Remote)](https://jobs.ashbyhq.com/quora/0b36c43d-a27b-4434-97d4-0e9c25c5879d)** — _n/a_ _(posted 2025-06-19)_
 * **[Senior iOS Engineer - Poe (Remote)](https://jobs.ashbyhq.com/quora/be3e7ff1-1658-4d81-a578-a34c74132ddd)** — _n/a_ _(posted 2025-06-06)_
 * **[Senior Software Engineer - Developer Tools, Poe (Remote)](https://jobs.ashbyhq.com/quora/16c24472-7381-4f24-9faa-975f40f7a326)** — _n/a_ _(posted 2025-06-06)_
 * **[iOS Engineer - Poe (Remote)](https://jobs.ashbyhq.com/quora/79962dbb-c552-43e0-b4ce-fff1d31addd2)** — _n/a_ _(posted 2025-03-12)_
@@ -326,4 +320,4 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Senior iOS Engineer](https://jobs.ashbyhq.com/zello/e9fa5143-a67f-40d3-8a29-091ce4bd009f)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-07-09_
+_Updated automatically — 2025-07-10_
