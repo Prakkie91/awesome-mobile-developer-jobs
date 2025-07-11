@@ -92,7 +92,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vcsw3ojmqjyiyuteloxu.webp" width="24" height="24" alt="DraftKings logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DraftKings](https://jobo.world/company/DraftKings)
 
-* **[Senior Software Engineer, Android](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Senior-Software-Engineer--Android_JR11802-1)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior Lead Software Engineer, Android](https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Senior-Lead-Software-Engineer--Android_JR11276-2)** — _n/a_ _(posted 2025-04-08)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dk4b0wh7a7bjmrawfziu.webp" width="24" height="24" alt="DroneDeploy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DroneDeploy](https://jobo.world/company/DroneDeploy)
@@ -129,6 +128,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
+* **[Software Engineer, Marketplace](https://job-boards.greenhouse.io/fleetio/jobs/4784351007)** — _n/a_ _(posted 2025-07-10)_
 * **[Senior Software Engineer, iOS Platform Engineering](https://boards.greenhouse.io/fleetio/jobs/4703303007)** — _n/a_ _(posted 2025-04-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
@@ -141,10 +141,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Senior Software Engineer, Mobile API](https://jobs.ashbyhq.com%2Fflock%2520safety%2F2c8fc982-08d2-4b80-a015-8c760b7e1b0c)** — ¤170,000 – ¤190,000 USD _(posted 2025-06-11)_
 * **[Senior Software Engineer, Video Frontend](https://jobs.ashbyhq.com%2Fflock%2520safety%2F5fcfc0eb-f13d-4341-8325-1e9f1baf87f6)** — ¤171,000 – ¤190,000 USD _(posted 2025-04-24)_
 * **[Staff Software Engineer - Rust](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fb068a665-3eb2-4a77-bfc9-38902bc6db2d)** — ¤200,000 – ¤235,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fgcwsq2gam2xf49dxzh5.webp" width="24" height="24" alt="Gamechanger logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Gamechanger](https://jobo.world/company/Gamechanger)
-
-* **[iOS Software Engineer, Stats and Insights](https://jobs.ashbyhq.com/gamechanger/1881e57c-9ec1-4798-8d6c-07f571efdefd)** — ¤130,000 – ¤155,000 USD _(posted 2025-05-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwqvzeivla8e5znv7cvw.webp" width="24" height="24" alt="Built Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Built Technologies](https://jobo.world/company/getbuilt)
 
@@ -189,6 +185,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bpe4hx0jvt3uwt0p7lxf.webp" width="24" height="24" alt="Kunai logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kunai](https://jobo.world/company/Kunai)
 
+* **[Full-stack Web Engineer](https://job-boards.greenhouse.io/kunai/jobs/4777766007)** — _n/a_ _(posted 2025-07-10)_
 * **[Senior Android Engineer](https://job-boards.greenhouse.io/kunai/jobs/4781510007)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior Android Engineer](https://job-boards.greenhouse.io/kunai/jobs/4781705007)** — _n/a_ _(posted 2025-07-08)_
 
@@ -320,4 +317,4 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Senior iOS Engineer](https://jobs.ashbyhq.com/zello/e9fa5143-a67f-40d3-8a29-091ce4bd009f)** — _n/a_ _(posted 2025-05-10)_
 
 ---
-_Updated automatically — 2025-07-10_
+_Updated automatically — 2025-07-11_
