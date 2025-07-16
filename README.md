@@ -15,6 +15,14 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Staff Software Engineer, Full Stack (Agent Experience)](https://job-boards.greenhouse.io/affirm/jobs/6533280003)** — _n/a_ _(posted 2025-05-15)_
 * **[Senior Staff Software Engineer, Fullstack (Consumer App Experience)](https://job-boards.greenhouse.io/affirm/jobs/6336790003)** — _n/a_ _(posted 2025-03-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hofx9v9c2zz1laftweez.webp" width="24" height="24" alt="Afresh logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Afresh](https://jobo.world/company/Afresh)
+
+* **[Fullstack Engineer](https://job-boards.greenhouse.io/afresh/jobs/5553908004)** — _n/a_ _(posted 2025-05-31)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zzomtjg1qh8bny0kgxwq.webp" width="24" height="24" alt="Alma logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alma](https://jobo.world/company/Alma)
+
+* **[Software Engineer II, Billing](https://job-boards.greenhouse.io/alma/jobs/8011487002)** — _n/a_ _(posted 2025-05-24)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dopqydjbowgsulf9ebb2.webp" width="24" height="24" alt="Altera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Altera](https://jobo.world/company/Altera)
 
 * **[Senior/Lead Software Engineer - Data/Engine](https://alteryx.wd5.myworkdayjobs.com/alteryxcareers/job/Northern-California-USA---Remote/Senior-Lead-Software-Engineer---Data-Engine_R10958)** — _n/a_ _(posted 2025-04-07)_
@@ -42,10 +50,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcrsxaub94nntp5gtnjk.webp" width="24" height="24" alt="Clickhouse logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clickhouse](https://jobo.world/company/Clickhouse)
 
 * **[Full Stack Software Engineer - Control Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5587666004)** — _n/a_ _(posted 2025-07-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qbfespi3tbwe37eihuwb.webp" width="24" height="24" alt="Close logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Close](https://jobo.world/company/Close)
-
-* **[Senior Software Engineer - Frontend/React (USA Only - 100% Remote) ](https://jobs.ashbyhq.com/close/9cee96e9-52ef-481f-87ab-40c69ccbac38)** — ¤130,000 – ¤210,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ryt5tjq7ftjfh2sfczyk.webp" width="24" height="24" alt="Coinbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coinbase](https://jobo.world/company/Coinbase)
 
@@ -109,6 +113,10 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Frontend Software Engineer ](https://jobs.ashbyhq.com/feathr/9b6d7ff4-59ea-4da5-b68c-579f6610fbb0)** — ¤90,000 USD _(posted 2025-06-20)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
+
+* **[Senior Software Engineer](https://jobs.ashbyhq.com/fieldguide/74aaf560-51bd-429b-988f-183746ee870e)** — ¤170,000 – ¤195,000 USD _(posted 2025-03-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
 * **[Software Engineer, Marketplace](https://job-boards.greenhouse.io/fleetio/jobs/4784351007)** — _n/a_ _(posted 2025-07-10)_
@@ -145,10 +153,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
 * **[Full Stack Engineer](https://jobs.ashbyhq.com/jellyfish/adced034-5f84-409d-9dab-5d45461bd8eb)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
-
-* **[Senior Backend Engineer - Real-time IoT](https://jobs.ashbyhq.com/jerry/fb06024f-9ae3-4cf9-bb0b-1b3da950dd45)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sxgbfxu6zzwvq8obqunk.webp" width="24" height="24" alt="Kalshi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kalshi](https://jobo.world/company/Kalshi)
 
@@ -256,6 +260,10 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Director of Product Management, Managed Driver Experience](https://job-boards.greenhouse.io/platformscience/jobs/6571444003)** — _n/a_ _(posted 2025-05-10)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/xtpksjlzjjnextpxet98.webp" width="24" height="24" alt="PlayStation Global logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PlayStation Global](https://jobo.world/company/PlayStation-Global)
+
+* **[Lead Engineer, Mobile Performance](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5499154004)** — _n/a_ _(posted 2025-06-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mfy1zh0kfr3dcucjo6ra.webp" width="24" height="24" alt="Polychain Capital logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Polychain Capital](https://jobo.world/company/Polychain-Capital)
 
 * **[Full Stack Engineer, Reporting Systems - Contract 6mo](https://job-boards.greenhouse.io/polychaincapital/jobs/6888228)** — _n/a_ _(posted 2025-05-15)_
@@ -291,14 +299,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/inlci0wzrhiduro5qdsv.webp" width="24" height="24" alt="Scout Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Scout Motors](https://jobo.world/company/Scout-Motors)
 
 * **[Sr Software Engineer - Mobile (Android) - Digital Product](https://job-boards.greenhouse.io/scoutmotors/jobs/4708235007)** — _n/a_ _(posted 2025-04-18)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ikyhgmloca3luk71epu4.webp" width="24" height="24" alt="SmartAsset logo" style="vertical-align:middle"/>&nbsp;&nbsp;[SmartAsset](https://jobo.world/company/SmartAsset)
-
-* **[Senior Software Engineer](https://boards.greenhouse.io/smartasset/jobs/7938185002)** — _n/a_ _(posted 2025-04-24)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cm90pm3xrssbotf11ab2.webp" width="24" height="24" alt="Solana Foundation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Solana Foundation](https://jobo.world/company/Solana-Foundation)
-
-* **[Fullstack Engineer - Product](https://jobs.ashbyhq.com%2Fsolana%2520foundation%2F1138888e-9895-42b7-8ad8-4d0735957fb1)** — _n/a_ _(posted 2025-04-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/x0na55ho7celprngtmhl.webp" width="24" height="24" alt="Suno logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Suno](https://jobo.world/company/Suno)
 
@@ -338,4 +338,4 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Customer Support Engineer - Mobile Apps &amp; Cybersecurity (Dallas Based - Hybrid)](https://jobs.lever.co/zimperium/e73a9add-3ee5-48d8-824f-cc68379ea373)** — _n/a_ _(posted 2025-01-28)_
 
 ---
-_Updated automatically — 2025-07-15_
+_Updated automatically — 2025-07-16_
