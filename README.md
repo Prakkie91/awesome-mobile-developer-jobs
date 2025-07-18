@@ -207,7 +207,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w2dz2cahnjcntso7vhoz.webp" width="24" height="24" alt="Mercury logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mercury](https://jobo.world/company/Mercury)
 
 * **[Senior Full-Stack Engineer](https://job-boards.greenhouse.io/mercury/jobs/5493086004)** — _n/a_ _(posted 2025-04-26)_
-* **[Software Engineer - Product](https://job-boards.greenhouse.io/mercury/jobs/5267749004)** — ¤140,800 – ¤158,400 USD _(posted 2025-04-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yxlnu2oiwrtwttay1hqs.webp" width="24" height="24" alt="Mixpanel logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mixpanel](https://jobo.world/company/Mixpanel)
 
@@ -227,6 +226,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
 
+* **[Staff Visual Designer](https://job-boards.greenhouse.io/mozilla/jobs/7078217)** — _n/a_ _(posted 2025-07-17)_
 * **[Senior Software Engineer - Mobile Android](https://job-boards.greenhouse.io/mozilla/jobs/7018802)** — _n/a_ _(posted 2025-07-08)_
 * **[Staff Software Engineer - Mobile Android](https://job-boards.greenhouse.io/mozilla/jobs/6964813)** — _n/a_ _(posted 2025-06-10)_
 
@@ -254,6 +254,10 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wnpvtpdgwe6vnjf701sp.webp" width="24" height="24" alt="PerformYard logo" style="vertical-align:middle"/>&nbsp;&nbsp;[PerformYard](https://jobo.world/company/PerformYard)
 
 * **[Full Stack Software Engineer](https://apply.workable.com/performyard/j/8147038392/)** — _n/a_ _(posted 2024-12-17)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qzspzfm4jlxxjzlsrq5a.webp" width="24" height="24" alt="Perplexity AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Perplexity AI](https://jobo.world/company/PerplexityAI)
+
+* **[Quality Engineer - Comet](https://job-boards.greenhouse.io/perplexityai/jobs/4790717007)** — _n/a_ _(posted 2025-07-17)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jqluxvjjehdk8lnz0lrg.webp" width="24" height="24" alt="Platform Science logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Platform Science](https://jobo.world/company/Platform-Science)
 
@@ -328,10 +332,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Senior iOS Developer](https://job-boards.greenhouse.io/well/jobs/8048349002)** — ¤147,000 – ¤165,000 USD _(posted 2025-06-25)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/company_logo.webp" width="24" height="24" alt="World Kinect logo" style="vertical-align:middle"/>&nbsp;&nbsp;[World Kinect](https://jobo.world/company/World-Kinect)
-
-* **[Mobile Diesel Mechanic](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/TACOMA-WA-Remote/Mobile-Diesel-Mechanic_R21670)** — ¤62,400 – ¤72,800 USD _(posted 2025-07-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ecvymxjtb9ov636cclzd.webp" width="24" height="24" alt="Zello logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Zello](https://jobo.world/company/Zello)
 
 * **[Senior iOS Engineer](https://jobs.ashbyhq.com/zello/e9fa5143-a67f-40d3-8a29-091ce4bd009f)** — _n/a_ _(posted 2025-05-10)_
@@ -341,4 +341,4 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Customer Support Engineer - Mobile Apps &amp; Cybersecurity (Dallas Based - Hybrid)](https://jobs.lever.co/zimperium/e73a9add-3ee5-48d8-824f-cc68379ea373)** — _n/a_ _(posted 2025-01-28)_
 
 ---
-_Updated automatically — 2025-07-17_
+_Updated automatically — 2025-07-18_
