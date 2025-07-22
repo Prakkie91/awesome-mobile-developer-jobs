@@ -109,10 +109,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 * **[Frontend Software Engineer ](https://jobs.ashbyhq.com/feathr/9b6d7ff4-59ea-4da5-b68c-579f6610fbb0)** — ¤90,000 USD _(posted 2025-06-20)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
-
-* **[Senior Software Engineer](https://jobs.ashbyhq.com/fieldguide/74aaf560-51bd-429b-988f-183746ee870e)** — ¤170,000 – ¤195,000 USD _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
 * **[Software Engineer, Marketplace](https://job-boards.greenhouse.io/fleetio/jobs/4784351007)** — _n/a_ _(posted 2025-07-10)_
@@ -129,6 +125,10 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kwqvzeivla8e5znv7cvw.webp" width="24" height="24" alt="Built Technologies logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Built Technologies](https://jobo.world/company/getbuilt)
 
 * **[Senior Software Engineer, Ecosystem](https://job-boards.greenhouse.io/getbuilt/jobs/4547059005)** — _n/a_ _(posted 2025-04-15)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
+
+* **[Senior Software Engineer - Flutter &amp; Node](https://jobs.lever.co/goodleap/bbcc8fc3-356d-4256-8ca1-6fd7aa3b0e1c)** — _n/a_ _(posted 2025-07-21)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2ezpbx124zsbrql2a7b.webp" width="24" height="24" alt="Hang logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hang](https://jobo.world/company/Hang)
 
@@ -338,4 +338,4 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Customer Support Engineer - Mobile Apps &amp; Cybersecurity (Dallas Based - Hybrid)](https://jobs.lever.co/zimperium/e73a9add-3ee5-48d8-824f-cc68379ea373)** — _n/a_ _(posted 2025-01-28)_
 
 ---
-_Updated automatically — 2025-07-20_
+_Updated automatically — 2025-07-22_
