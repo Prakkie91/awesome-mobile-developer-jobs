@@ -199,6 +199,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/icyvoy1xdkv6ptazxcqz.webp" width="24" height="24" alt="Motley Fool logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motley Fool](https://jobo.world/company/Motley-Fool)
 
 * **[Senior Mobile Developer](https://job-boards.greenhouse.io/themotleyfool/jobs/4736602007)** — _n/a_ _(posted 2025-07-02)_
+* **[Senior Fullstack Developer - React/Python](https://job-boards.greenhouse.io/themotleyfool/jobs/4724679007)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
 
@@ -206,11 +207,6 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Senior Software Engineer - Mobile Android](https://job-boards.greenhouse.io/mozilla/jobs/7018802)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior Product Manager, Firefox Mobile (Android)](https://job-boards.greenhouse.io/mozilla/jobs/6951215)** — _n/a_ _(posted 2025-06-10)_
 * **[Staff Software Engineer - Mobile Android](https://job-boards.greenhouse.io/mozilla/jobs/6964813)** — _n/a_ _(posted 2025-06-10)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ipqjggsa4adm24tegtgj.webp" width="24" height="24" alt="MyFitnessPal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[MyFitnessPal](https://jobo.world/company/MyFitnessPal)
-
-* **[Software Engineer III, iOS - Ads](https://job-boards.greenhouse.io/myfitnesspal/jobs/6960796)** — _n/a_ _(posted 2025-06-07)_
-* **[Staff Software Engineer, iOS - Ads](https://job-boards.greenhouse.io/myfitnesspal/jobs/6928322)** — _n/a_ _(posted 2025-06-05)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/y1w97g1gojiyps8pfzuh.webp" width="24" height="24" alt="NinjaTrader logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NinjaTrader](https://jobo.world/company/NinjaTrader)
 
@@ -251,6 +247,7 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/medp37fwznxooodxhybc.webp" width="24" height="24" alt="Privy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Privy](https://jobo.world/company/Privy)
 
+* **[Staff Frontend Software Engineer](https://jobs.ashbyhq.com/privy/6582f635-19f9-4697-9a23-2205054f15ae)** — ¤170,000 – ¤250,000 USD _(posted 2025-03-12)_
 * **[Senior/Staff Fullstack Software Engineer](https://jobs.ashbyhq.com/privy/8aeff2e1-1fdf-4123-ae81-3867507c239e)** — ¤150,000 – ¤250,000 USD _(posted 2025-03-12)_
 * **[Senior/Staff React Native Software Engineer](https://jobs.ashbyhq.com/privy/1f881b2f-6f7a-4852-b9fd-3838d2106f49)** — ¤150,000 – ¤250,000 USD _(posted 2025-03-12)_
 
@@ -317,4 +314,4 @@ Browse a wide range of remote Mobile Developer positions available globally. New
 * **[Customer Support Engineer - Mobile Apps &amp; Cybersecurity (Dallas Based - Hybrid)](https://jobs.lever.co/zimperium/e73a9add-3ee5-48d8-824f-cc68379ea373)** — _n/a_ _(posted 2025-01-28)_
 
 ---
-_Updated automatically — 2025-07-23_
+_Updated automatically — 2025-07-24_
